@@ -13,5 +13,4 @@ Welcome to my homepage! I am currently a Ph.D. candidate in Statistics at the Re
 ## Navigation
 - [Research](/research/)
 - [Publications](/publications/)
-- [Teaching](/teaching/)
 - [Contact](/contact/)
