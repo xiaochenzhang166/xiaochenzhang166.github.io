@@ -11,7 +11,7 @@ Welcome to my homepage! I am currently a researcher in [your field]. My research
 - 💡 I am looking for research collaborations. Feel free to contact me.
 
 ## Navigation
-- [Research](https://rubyzhang166.github.io/try.github.io/research.html)
+- [Research](/research/)
 - [Publications](/publications/)
-- [Teaching](https://rubyzhang166.github.io/try.github.io/teaching.html)
-- [Contact](https://rubyzhang166.github.io/try.github.io/contact.html)
+- [Teaching](/teaching/)
+- [Contact](/contact/)
