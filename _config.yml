@@ -1,8 +1,8 @@
 # Jekyll 配置文件
-title: "Ruby Zhang's Homepage"
-author: "Ruby Zhang"
+title: "Xiaochen Zhang's Homepage"
+author: "Xiaochen Zhang"
 email: "your_email@example.com"
-description: "This is Ruby Zhang's personal homepage."
+description: "This is Xiaochen Zhang's personal homepage."
 theme: minima  # 你也可以换成其他 GitHub Pages 支持的主题
 baseurl: ""
 url: "https://rubyz​hang166.github.io"
