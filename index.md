@@ -12,6 +12,6 @@ Welcome to my homepage! I am currently a researcher in [your field]. My research
 
 ## Navigation
 - [Research](https://rubyzhang166.github.io/try.github.io/research.html)
-- [Publications](https://rubyzhang166.github.io/try.github.io/publications.html)
+- [Publications](/publications/)
 - [Teaching](https://rubyzhang166.github.io/try.github.io/teaching.html)
 - [Contact](https://rubyzhang166.github.io/try.github.io/contact.html)
