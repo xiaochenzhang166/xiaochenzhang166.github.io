@@ -5,7 +5,5 @@ permalink: /publications/
 ---
 
 ## Selected Publications
-- **[Paper Title]** - *Conference/Journal Name, Year*  
-  - [🔗 PDF](#) | [📝 Project Page](#)
-- **[Paper Title]** - *Conference/Journal Name, Year*  
-  - [🔗 PDF](#) | [📝 Project Page](#)
+- **[Knoop: Practical Enhancement of Knockoff with Over-Parameterization for Variable Selection]** – *Machine Learning, 2024*  
+  - [🔗 PDF](https://xiaochenzhang166.github.io/paper/Practical_Enhancement_of_Knockoff_with_Over_Parameterization_for_Variable_Selection.pdf)) 
