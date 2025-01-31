@@ -1,0 +1,22 @@
+# Jekyll 配置文件
+title: "Ruby Zhang's Homepage"
+author: "Ruby Zhang"
+email: "your_email@example.com"
+description: "This is Ruby Zhang's personal homepage."
+theme: minima  # 你也可以换成其他 GitHub Pages 支持的主题
+baseurl: "/try.github.io"
+url: "https://rubyz​hang166.github.io"
+
+# 主页显示文章
+show_excerpts: true
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - contact.md
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
