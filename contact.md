@@ -5,4 +5,5 @@ permalink: /contact/
 ---
 
 ## Contact Information
-📧 Email: zhangxiaochenruby166@outlook.com  
+Professional Email: zhangxiaochenruby166@outlook.com  
+Academic Email: 202012079@mail.sdu.edu.cn
