@@ -4,7 +4,7 @@ author: "Ruby Zhang"
 email: "your_email@example.com"
 description: "This is Ruby Zhang's personal homepage."
 theme: minima  # 你也可以换成其他 GitHub Pages 支持的主题
-baseurl: "/try.github.io"
+baseurl: ""
 url: "https://rubyz​hang166.github.io"
 
 # 主页显示文章
